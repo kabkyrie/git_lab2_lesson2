@@ -1,1 +1,1 @@
-#  git_lab2_lesson2
+#  info Pytya
